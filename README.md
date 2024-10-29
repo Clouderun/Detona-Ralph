@@ -1,5 +1,5 @@
 # Detona-Ralph
-Desafio da dio com algumas coisas á mais como: Icone do site e som de game over!
+Desafio da DIO com algumas coisas á mais como: Icone do site e som de game over!
 ## Awesome JSGame Detona Ralph
 
 <p align="center">
